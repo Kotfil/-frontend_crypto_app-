@@ -96,7 +96,7 @@ export const TransactionsList: FC<{
             <Grid2 px={2}>
                 <Card>
                     <TransactionList>
-                        {transactions.map((transaction: any, index: number) => {
+                        {transactions.map((transaction: Transaction, index: number) => {
                             const isIkeaIcon = transaction.name === "IKEA";
                             const isTargetIcon = transaction.name === "Target";
                             const iconSrc = isIkeaIcon ? "/ikea.svg" : isTargetIcon ? "/target.svg" : null;

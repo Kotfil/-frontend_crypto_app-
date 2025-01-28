@@ -12,7 +12,7 @@ export interface Transaction {
     date: string;
     userName: string | null;
     percent: string | null;
-    iconType: IconName;
+    iconType: IconName | null | string;
 }
 
 export interface CardData {

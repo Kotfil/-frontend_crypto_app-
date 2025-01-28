@@ -36,7 +36,6 @@ export const TransactionDetail: FC<{
                         <Grid2>${transaction.amount.toFixed(2)}</Grid2>
                     </Grid2></Total>
                 </InfoBox>
-
             </Card>
         </Container>
     )

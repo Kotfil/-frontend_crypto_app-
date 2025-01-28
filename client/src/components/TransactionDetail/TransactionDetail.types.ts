@@ -5,6 +5,4 @@ export interface Transaction {
     name: string;
     description: string;
     date: string;
-    authorizedUser: string | null;
-    status: string;
 }
