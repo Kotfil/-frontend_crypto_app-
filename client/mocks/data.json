@@ -1,0 +1,80 @@
+{
+  "cardBalance": {
+    "limit": 1500,
+    "balance": 17.30
+  },
+  "noPaymentDue": true,
+  "dailyPoints": 456000,
+  "transactions": [
+    {
+      "amount": 14.06,
+      "type": "credit",
+      "name": "Apple",
+      "description": "Pending - Card Number Used ",
+      "percent": "3%",
+      "date": "2025-01-27",
+      "userName": "Diana",
+      "iconType": "apple-alt"
+    },
+    {
+      "amount": 174.00,
+      "type": "debit",
+      "name": "Payment",
+      "description": "Pending - Card Number Used ",
+      "percent": null,
+      "date": "2025-01-27",
+      "userName": null,
+      "iconType": "apple-alt"
+    },
+    {
+      "amount": 3.24,
+      "type": "credit",
+      "name": "Apple",
+      "description": "Pending - Card Number Used ",
+      "percent": "3%",
+      "date": "2025-01-24",
+      "userName": "Diana",
+      "iconType": "apple-alt"
+    },
+    {
+      "amount": 99.71,
+      "type": "debit",
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National",
+      "percent": null,
+      "date": "2025-01-23",
+      "userName": null,
+      "iconType": "apple-alt"
+    },
+    {
+      "amount": 73.58,
+      "type": "debit",
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National",
+      "percent": null,
+      "date": "2025-01-23",
+      "userName": null,
+      "iconType": "apple-alt"
+    },
+    {
+      "amount": 21.26,
+      "type": "credit",
+      "name": "IKEA",
+      "description": "Round Rock, TX",
+      "percent": "2%",
+      "date": "2022-01-10",
+      "userName": "Diana",
+      "iconType": null
+    },
+    {
+      "amount": 73.58,
+      "type": "credit",
+      "name": "Target",
+      "description": "Cedar Park, TX",
+      "percent": "2%",
+      "date": "2022-01-10",
+      "userName": "Diana",
+      "iconType": null
+    }
+  ]
+}
